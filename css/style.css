@@ -6,6 +6,13 @@
   height: 300px;
 }
 
+.navbar-brand{
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: line-through;
+}
+
 @media(min-width:960){
   #movies .col-md-3 .well{
     height: 300px;
